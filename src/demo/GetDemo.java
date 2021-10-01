@@ -16,6 +16,8 @@ boolean isSunday = true;
 		
 		// java is fun....
 		
+		// boolean expresion true or fall.
+		
 	}
 
 }
