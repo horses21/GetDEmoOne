@@ -14,7 +14,7 @@ boolean isSunday = true;
 			System.out.println("Xyz");
 		}
 		
-		
+		// java is fun....
 		
 	}
 
